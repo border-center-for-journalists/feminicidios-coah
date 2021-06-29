@@ -1,0 +1,338 @@
+[
+  {
+    "distrito": "Saltillo",
+    "causa": "004/2014",
+    "penalidad": 12,
+    "tipo": "Procedimiento abreviado",
+    "monto": 365000,
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "080/2015",
+    "penalidad": 18,
+    "tipo": "Procedimiento abreviado",
+    "monto": 80000,
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "224/2015",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "002/2016",
+    "penalidad": 27.5,
+    "tipo": "Procedimiento abreviado",
+    "monto": 479382,
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "253/2016",
+    "penalidad": 18,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "388/2016",
+    "penalidad": 18,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "15/2020 2017 ACUMULADO 15/208/2017",
+    "penalidad": 18,
+    "tipo": "Procedimiento abreviado",
+    "monto": 130000,
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "861/2018",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "818/2018",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "129/2019",
+    "penalidad": 30,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": "NOTA: 2 imputados más 3 años cada uno"
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "647/2019",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "1500/2018",
+    "penalidad": 46.25,
+    "tipo": "Procedimiento abreviado",
+    "monto": 1181400,
+    "notas": ""
+  },
+  {
+    "distrito": "Saltillo",
+    "causa": "1133/2019",
+    "penalidad": 45,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Frontera",
+    "causa": "0057/2014",
+    "penalidad": 50,
+    "tipo": "Juicio oral",
+    "monto": "",
+    "notas": ""
+  },
+  {
+    "distrito": "Frontera",
+    "causa": "0029/2015",
+    "penalidad": 50,
+    "tipo": "Juicio oral",
+    "monto": "",
+    "notas": ""
+  },
+  {
+    "distrito": "Frontera",
+    "causa": "0071/2017",
+    "penalidad": 27.5,
+    "tipo": "Procedimiento abreviado",
+    "monto": "No se condena al pago de reparación",
+    "notas": ""
+  },
+  {
+    "distrito": "Frontera",
+    "causa": "0114/2019",
+    "penalidad": 28,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Frontera",
+    "causa": "362/2019",
+    "penalidad": 30,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Frontera",
+    "causa": "0026/2020",
+    "penalidad": 40,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Frontera",
+    "causa": "236/2020",
+    "penalidad": 40,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Frontera",
+    "causa": "237/2020",
+    "penalidad": 40,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Piedras Negras",
+    "causa": "48/2016",
+    "penalidad": 10,
+    "tipo": "Procedimiento abreviado",
+    "monto": 150000,
+    "notas": ""
+  },
+  {
+    "distrito": "Piedras Negras",
+    "causa": "414/2016",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": 375200,
+    "notas": ""
+  },
+  {
+    "distrito": "Piedras Negras",
+    "causa": "539/2018",
+    "penalidad": 25,
+    "tipo": "Procedimiento abreviado",
+    "monto": "No se condena al pago de reparación",
+    "notas": ""
+  },
+  {
+    "distrito": "Piedras Negras",
+    "causa": "836/2018",
+    "penalidad": 6.667,
+    "tipo": "Juicio oral",
+    "monto": "",
+    "notas": "Tentativa punible de feminicidio"
+  },
+  {
+    "distrito": "Piedras Negras",
+    "causa": "316/2019",
+    "penalidad": 18,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Piedras Negras",
+    "causa": "694/2019",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Piedras Negras",
+    "causa": "537/2020",
+    "penalidad": 26,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "370/2016",
+    "penalidad": 75,
+    "tipo": "Juicio oral",
+    "monto": "",
+    "notas": ""
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "1913/2018",
+    "penalidad": 5,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": "Adolescente sentenciado"
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "518/2017",
+    "penalidad": 46.25,
+    "tipo": "Juicio oral",
+    "monto": "",
+    "notas": ""
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "223/2019",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "1349/2018",
+    "penalidad": 5,
+    "tipo": "Procedimiento abreviado",
+    "monto": 15000,
+    "notas": "Feminicidio en grado de tentativa"
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "1104/2019",
+    "penalidad": 22,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "306/2019",
+    "penalidad": 28,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "1901/20148",
+    "penalidad": 24,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "1564/2018",
+    "penalidad": 19,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Torreón",
+    "causa": "1850/2018",
+    "penalidad": 14.5,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Sabinas",
+    "causa": "184/2018",
+    "penalidad": 18.5,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Sabinas",
+    "causa": "53/2019",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Acuña",
+    "causa": "169/2019",
+    "penalidad": 20,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": ""
+  },
+  {
+    "distrito": "Acuña",
+    "causa": "14/2019",
+    "penalidad": 4.41667,
+    "tipo": "Procedimiento abreviado",
+    "monto": "Ilíquida",
+    "notas": "Tentativa punible de feminicidio"
+  }
+]

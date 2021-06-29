@@ -1,0 +1,2243 @@
+[
+  {
+    "id": 1,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Contusión profunda de cráneo por proyectil de arma de fuego"
+  },
+  {
+    "id": 2,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico secundario a laceración de arterias carótidas por heridas por arma blanca"
+  },
+  {
+    "id": 3,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Contusión profunda de cráneo por proyectil de arma de fuego"
+  },
+  {
+    "id": 4,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía pública",
+    "cause_of_death": "Shock hipovolémico secundario a traumatismo craneoencefálico severo al parecer por golpe contuso"
+  },
+  {
+    "id": 5,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral secundaria a contusión craneal"
+  },
+  {
+    "id": 6,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo craneonecefálico con exposición de masa encefálica producida por fractura producida por objeto contundente"
+  },
+  {
+    "id": 7,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Atropellamiento intencional",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Embolia pulmonar producida por fractura de cadera"
+  },
+  {
+    "id": 8,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral secundaria a traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 9,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Sepsis por herida producida por proyectil de arma de fuego en abdomen"
+  },
+  {
+    "id": 10,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia Subaracnoidea debido a traumatismo craneonecefálico severo"
+  },
+  {
+    "id": 11,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral secundaria a contusión craneal por proyectil de arma de fuego"
+  },
+  {
+    "id": 12,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Herida por arma de fuego con destrucción de órganos vitales"
+  },
+  {
+    "id": 13,
+    "year": 2015,
+    "victims": 2,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "1. Traumatismo craneoencefálico, lesión en centros vitales y hemorragia cerebral aguda. 2.Traumatismo craneoencefálico, lesiones en centros vitales y hemorragia cerebral aguda."
+  },
+  {
+    "id": 14,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "hemorragia cerebral aguda con lesión de centros vitales. Herida por arma de fuego penetrante de cráneo."
+  },
+  {
+    "id": 15,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "Si",
+    "place": "Despoblado",
+    "cause_of_death": "Anoxemia por ahogamiento, la ofendida fue abusada sexualmente vía anal"
+  },
+  {
+    "id": 16,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Herida por arma de fuego penetrante de abdomen y hemorragia interna aguda"
+  },
+  {
+    "id": 17,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por estrangulamiento"
+  },
+  {
+    "id": 18,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Heridas producidas por arma de fuego penetrante de tórax con lesión de órganos vitales y hemorragia interna aguda"
+  },
+  {
+    "id": 19,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Traumatismo craneoencefálico severo con laceración hemorragia cerebral"
+  },
+  {
+    "id": 20,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Herida por arma de fuego penetrante en cráneo con lesión de centros vitales"
+  },
+  {
+    "id": 21,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral e interne agudas lesión de centros y órganos vitales heridas producidas por proyectol de arma de fuego penetrante de cráneo y tórax"
+  },
+  {
+    "id": 22,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Heridas producidas por arma de fuego penetrante de tórax y hombro izquierdo"
+  },
+  {
+    "id": 23,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Heridas producidas por arma de fuego penetrante de muslo izquierdo de estructuras vitales con hemorragia interna aguda y estado en shock hipovolémico"
+  },
+  {
+    "id": 24,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Negocio",
+    "cause_of_death": "Hemorragia cerebral con destruccion de centros y órganos vitales secundarios a heridas producidas por por proyectiles desparados por arma de fuego penetrantes en cráneo, tórax y abdomen"
+  },
+  {
+    "id": 25,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral interna y aguda, laceración hepática y vascular cerebral secundaria a traumatismo craneonecefálico con contusión profunda en abdomen"
+  },
+  {
+    "id": 26,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia interne shock hipovolémico irreversible lesión de órganos vitales por heridas producidas por proyectil desparado por arma de fuego penetrante en tórax"
+  },
+  {
+    "id": 27,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia interna aguda. Lesión de órganos vitales y secundarios a heridas producidas por proyectiles disparados por arma de fuego penetrante de tórax y abdomen"
+  },
+  {
+    "id": 28,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por obstrucción de orificios respiratorios"
+  },
+  {
+    "id": 29,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia interna aguda y laceración de órganos vitales secundarios a heridas producidas por proyectil disparado por arma de fuego penentrante en tórax y abdomen"
+  },
+  {
+    "id": 30,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolémico consecutivo a laceración vascular secundario a herida por instrumento punzocortante penetrante de tórax y abdomen"
+  },
+  {
+    "id": 31,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por bronco aspiración hemática"
+  },
+  {
+    "id": 32,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico secundario a hemorragia interna y extrema aguda causada por heridas punzocortantes de tórax"
+  },
+  {
+    "id": 33,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Herida producida por proyectil de arma de fuego penetrante de cráneo con destrucción de centros vitales"
+  },
+  {
+    "id": 34,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico por laceración de los vasos del retro peritoneo por arma blanca"
+  },
+  {
+    "id": 35,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo craneoencefálico severo a bronco aspiración"
+  },
+  {
+    "id": 36,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico y hemorragia pulmonar producida por proyectil de arma de fuego"
+  },
+  {
+    "id": 37,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Shock Neurogénico secundario a traumatismo craneoencefálico severo y profundo por laceración de tejido cerebral que provocó el trayecto de arma de fuego a la cavida del cráneo"
+  },
+  {
+    "id": 38,
+    "year": 2015,
+    "victims": 2,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "1. Anoxemia cerebral por estrangulamiento y presentan disparos por arma de fuego en cara realizado post mórtem. Anoxemia cerebral por estrangulamiento y presentan disparos por arma de fuego en cara realizado post mórtem"
+  },
+  {
+    "id": 39,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock Neurogénico secundario a traumatismo craneoencefálico severo profundo, edema cerebral difuso, hematoma subdural de la base del cráneo y fractura piso medio de la base del cráneo lado derecho"
+  },
+  {
+    "id": 40,
+    "year": 2015,
+    "victims": 2,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "1. Shock hipovolémico hemorrágico por laceración de ambos pulmones por trayect de proyectil de arma de fuego, se le extrajo feto de 14 semanas de gestación. 2. Shock hipovolémico irreversiblesecundario a heridas producidas por arma de fuego penetrantes a la cavidad del tórax y abdomen con trayecto de proyectil de pulmón e hígado."
+  },
+  {
+    "id": 41,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Quemaduras",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Consecuencias de segundo y tercer grade en el 80% de la superficie corporal total."
+  },
+  {
+    "id": 42,
+    "year": 2015,
+    "victims": 2,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "1. Shock neurogénico secundario a herida producida por proyectil de arma de fuego penetrante a cavidad craneal con lesión penetrante de proyectil del sistema nervioso central. 2. Shock neurogénico secundario a herida producida por proyectil de arma de fuego, peentrante a cavidad craneal con lesión penetrante de proyectil del sistema nervioso central."
+  },
+  {
+    "id": 43,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico por laceración carótida"
+  },
+  {
+    "id": 44,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock Neurogénico por edema cerebral difuso en ambos hemisferios cerebrales secundarios a traumatismo craneonecefálico severo y profundo y fractura de bóveda y base de cráneo."
+  },
+  {
+    "id": 45,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Traumatismo craneoencefálico severo y profundo por objeto contuso y cortante"
+  },
+  {
+    "id": 46,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Paro cardiorrespiratorio producido a consecuencia de herida por arma de fuego"
+  },
+  {
+    "id": 47,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Lesión producida por proyectil de arma de fuego en cavidad craneal con lesión de proyectil en sistema nervioso central"
+  },
+  {
+    "id": 48,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo craneoencefálico"
+  },
+  {
+    "id": 49,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock por traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 50,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock traumático por lesión severa de cerebro por proyectil de arma de fuego"
+  },
+  {
+    "id": 51,
+    "year": 2015,
+    "victims": 2,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "1. Muerte súbita por lesion cerebral por disparo de proyectil de arma de fuego. 2 Muerte súbita por lesión cerebral por disparo de proyectil de arma de fuego."
+  },
+  {
+    "id": 52,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque Neurogénico por hemorragia cerebral por lesión por arma de fuego"
+  },
+  {
+    "id": 53,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia interna cerebral ocasionada por traumatismo craneoencefálico por objeto contundente"
+  },
+  {
+    "id": 54,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Heridas por arma de fuego que lesionó tallo cerebral"
+  },
+  {
+    "id": 55,
+    "year": 2015,
+    "victims": 2,
+    "cause": "Golpes",
+    "sexual_violence": "Si",
+    "place": "Domicilio",
+    "cause_of_death": "1. Hemorragia cerebral secundaria a fractura de cráneo por traumatismo craneoencefálico severo en región frontal temporal encontrándoe abusada sexualmente 2. Hemorragia cerebral secundaria a fractura de cráneo por traumatismo craneoencefálico izquierdo ecncontrándose abusada sexualmente."
+  },
+  {
+    "id": 56,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico secundario a lesión en arteria subclavia izquierda con lesión en pulmón izquierdo, 7 lesiones superficiales en tórax, 2 lesiones penetrantes en cuello"
+  },
+  {
+    "id": 57,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral secundaria a traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 58,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock Neurogénico subsecuente a hemorragia cerebral subecuente a fractura multifragmentaria de cráneo subsecuente a traumatismo craneoencefálico con objeto sólido contundente"
+  },
+  {
+    "id": 59,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Degollamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque Neurogénico por cercenamiento de paquete neuro vascular, región de columna vertebral, por ojeto contuso cortante"
+  },
+  {
+    "id": 60,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Asfixia por Ahorcadura"
+  },
+  {
+    "id": 61,
+    "year": 2015,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico causado por hemorragia interna derivada de dos lesiones causadas con objeto punzocortante (pica hiello) en peco o tórax del lado derecho que elsionó hígado y en tórax de lado izquierdo que lesionó pulmón izquierdo y corazón."
+  },
+  {
+    "id": 62,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxia Cerebral por Ahorcamiento"
+  },
+  {
+    "id": 63,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Traumatismo Craneoencefálico severo con fractura frontal del techo de órbita derecha"
+  },
+  {
+    "id": 64,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral contusión profunda de cráneo herida producida por proyectil de arma de fuego"
+  },
+  {
+    "id": 65,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Taponamiento Cardiaco"
+  },
+  {
+    "id": 66,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Decapitado",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral por traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 67,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock Hipovolémiico per Laceración Hepática"
+  },
+  {
+    "id": 68,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia secundaria cerebral a laceración de vísera encefálica por arma de fuego"
+  },
+  {
+    "id": 69,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Traumatismo Craneoencefalico con destrucción de centros vitales"
+  },
+  {
+    "id": 70,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Traumatismo Craneoencefálico"
+  },
+  {
+    "id": 71,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Decapitado",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por bronco aspiración de contenido hemático secundario a sección de arteria carcitida primitiva y vena yugular interna derechas, sección de tráquea consecutiva a herida producida por instrumento cortante en cara anterior y laterial derecha de cuello."
+  },
+  {
+    "id": 72,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolemico irreversible hemorragia interna y eterna agudas por herida per arma de fuego penetrante tórax y lesión de centro y órganos vitales"
+  },
+  {
+    "id": 73,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Torniquete",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo craneoencefálico, contusión profunda de tórax y lesión de centro y órganos vitales"
+  },
+  {
+    "id": 74,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Bronco aspiración de contenido hemático secundario a herida producida por proyectil de arma de fuego penetrante en cuello y tórax"
+  },
+  {
+    "id": 75,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Negocio",
+    "cause_of_death": "Hemorragia cerebral afectación de centro vitales secundario a herida por arma de fuego penetrante de cráneo"
+  },
+  {
+    "id": 76,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia por estrangulamiento"
+  },
+  {
+    "id": 77,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia por estrangulamiento"
+  },
+  {
+    "id": 78,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Estacionamiento de centro comercial",
+    "cause_of_death": "Shock Hipovolémico, hemorragia interna aguda, lesión de estructira vital y herida producida por proyectil de arma de fuego"
+  },
+  {
+    "id": 79,
+    "year": 2016,
+    "victims": 2,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia interna aguda, lesión de centros vitales por herida producida por proyectil de arma de fuego penetrante de tórax y cráneo para ambas"
+  },
+  {
+    "id": 80,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Laceración cerebral por fractura de bóveda por traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 81,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Laceración encefálica por herida producida por proyectil disparado por arma de fuego"
+  },
+  {
+    "id": 82,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Traumatismo craneoencefálico por proyectil de arma de fuego"
+  },
+  {
+    "id": 83,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico irreversible secundario a herida producida por objeto punzocortante penetrante a cavidad del cuello con lesión a carótida interna y tráquea"
+  },
+  {
+    "id": 84,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Atropellamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico producido por atropellamiento"
+  },
+  {
+    "id": 85,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock Hipovolémico por sangrado de paquete vascular (vena y aerteria del lado derecho del cuello)"
+  },
+  {
+    "id": 86,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Laceración y hemorragia cerebral intraparanquimatosa bilaterial del cerebro por proyectil de arma de fuego"
+  },
+  {
+    "id": 87,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Laceración y hemorragia cerebral, hemitórax derecho"
+  },
+  {
+    "id": 88,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Desmembrado y calcinado",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Causa de muerte no definida por ausencia de la mayor parte del cuerpo"
+  },
+  {
+    "id": 89,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo Craneoencefálico severo con exposición de masa encefálica"
+  },
+  {
+    "id": 90,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Lesión de hígado por proyectil de arma de fuego"
+  },
+  {
+    "id": 91,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Lesión en tallo cerebral por proyectil de arma de fuefo, con orificio de entrada en la región parental izquierda"
+  },
+  {
+    "id": 92,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock neurogénico por fractura multifragmentaria con destrucción cerebral producida por proyectil de arma de fuego"
+  },
+  {
+    "id": 93,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Negocio",
+    "cause_of_death": "Shock Hipovolémico por Perforación de Aurícula izquierda (corazón) ocasionada por proyectil de arma de fuego"
+  },
+  {
+    "id": 94,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Traumatismo craneocefálico con presencia de fractura multifragmentaria en región occipital y vi parietal"
+  },
+  {
+    "id": 95,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock Neurogénico, lesiones en estructuras internas cerebrale por proyectil de arma de fuego, hemorragia cerebral, fractura de cráneo por disparo de proyectil de arma de fuego con región media frontal"
+  },
+  {
+    "id": 96,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo Craneoencefálico en Region Frontal."
+  },
+  {
+    "id": 97,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Quemaduras",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Carbonización"
+  },
+  {
+    "id": 98,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Calcinada",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Los restos fueron enviados a genética, adn no se tienen los resultados"
+  },
+  {
+    "id": 99,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque Neurogénico Secundario a Traumatismo craneoencefálico"
+  },
+  {
+    "id": 100,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo craneocefálico con decapitación a la altura de la séptima vértebra cervical"
+  },
+  {
+    "id": 101,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Decapitado",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Trauma craneocefálico por objeto contundente"
+  },
+  {
+    "id": 102,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque Neurogénico producida par proyectil disparado por arma de fuego"
+  },
+  {
+    "id": 103,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque Neurogénico Secundario a hemorragia severa por lesión producida con objeto punzocortante"
+  },
+  {
+    "id": 104,
+    "year": 2016,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolémico provocado por la herida contusa cortante en pectoral izquierda secundaria a lesión de cavidad cardiaca ventrículo derecho y de saco pericardio"
+  },
+  {
+    "id": 105,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Contusión profunda de cráneo derivada de golpe contuso"
+  },
+  {
+    "id": 106,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia interna por traumatismo craneonecefálico severo"
+  },
+  {
+    "id": 107,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Baldío",
+    "cause_of_death": "Taponamiento cardiaco por herida de arma punzocortante penetrante en tórax"
+  },
+  {
+    "id": 108,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Neumotórax dentro de las 24 horas anteriores"
+  },
+  {
+    "id": 109,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo craneoencefalico severo con hemorragia subaracnoidea"
+  },
+  {
+    "id": 110,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Shock hipovolérnico por arrancamiento de músculos del cuello"
+  },
+  {
+    "id": 111,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Degollamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock Hipovolémico por degollamiento"
+  },
+  {
+    "id": 112,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Anoxia cerebral por colocacion de objeto constrictor"
+  },
+  {
+    "id": 113,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Asfixia mecánica por estrangulamiento"
+  },
+  {
+    "id": 114,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Atropellamiento intencional",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral can afectación de centros vitales secundaria a traumatismo craneonecefálico severo"
+  },
+  {
+    "id": 115,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por bronco aspiracion de líquido hemático sangrado nasofaringe producido por traumatismo cráneo facial por objeto punzo contundente penetrante de rostro"
+  },
+  {
+    "id": 116,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por Bronco aspiración de Contenido hemático, secundario a traumatismo cráneo facial"
+  },
+  {
+    "id": 117,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico secundario a hemorragia interna aguda provocada por herida por arma de fuego penetrante de tórax y abdomen"
+  },
+  {
+    "id": 118,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia secundario a bronco aspiración de contenido hemático de origen postraumático a herida producida por proyectil disparado por arma de fuego penetrante de rostro"
+  },
+  {
+    "id": 119,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Baldío",
+    "cause_of_death": "Anoxemia por bronco aspiración secundaria de fractura bilaterial de piso medio craneal"
+  },
+  {
+    "id": 120,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolérnico hemorragia interna aguda, laceración de órganos vitales torácicos y abdominales"
+  },
+  {
+    "id": 121,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Negocio",
+    "cause_of_death": "Choque hipovolémico secundario a laceración cardiaca hepática y vascular consecutiva a herida producida por proyectil disparada por arma de fuego penetrante de tórax y abdomen"
+  },
+  {
+    "id": 122,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia por obstrucción de vías respiratorias"
+  },
+  {
+    "id": 123,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Anoxemia por bronco aspiración de contenido hemático e intoxicación por monóxido de carbono, hemorragia cerebral aguda y traumatismo cráneo facial"
+  },
+  {
+    "id": 124,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia interna aguda, lesión de órganos internos penetrante en tórax por disparos producidos por arma de fuego"
+  },
+  {
+    "id": 125,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por estrangulamiento"
+  },
+  {
+    "id": 126,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Baldío",
+    "cause_of_death": "Choque Hipovolémico secundario a hemorragia interna y externa aguda provocada por perforación de vena yugular externa y perforación de pulmón causadas a su vez por herida producida por instrumento cortante de cuello"
+  },
+  {
+    "id": 127,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico secundario a hemorragia interna aguda consecutiva a laceración pulmonar y vascular penetrante en tórax"
+  },
+  {
+    "id": 128,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolémico, hemorragia interna aguda, perforación cardiaca, heridas producidas por proyectil disparado por arma de fuego penetrante de tórax y abdomen"
+  },
+  {
+    "id": 129,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral aguda por destrucción de centros vitales a causa de heridas producidas por proyectil de arma de fuego penetrante de cráneo"
+  },
+  {
+    "id": 130,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolémico secundario a hemorragia interna y externa consecutiva a laceración cardiaca hepática y gástrica, por herida producida por proyectil disparado por arma de fuego penentrante de tórax y abdomen"
+  },
+  {
+    "id": 131,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Baldío",
+    "cause_of_death": "Destrucción de centros vitales por arma de fuego"
+  },
+  {
+    "id": 132,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico por laceracion pulmonar bilaterial por herida producida por proyectil disparado por arma de fuego"
+  },
+  {
+    "id": 133,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Negocio",
+    "cause_of_death": "Shock hipovolémico secundario por arma de fuego"
+  },
+  {
+    "id": 134,
+    "year": 2017,
+    "victims": 3,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "1. Shock Traumático por fractura de cráneo por traumatismo craneoencefálico severo. 2. Shock hipovolémico por hemorragia severa porlaceración de anteriasy venas del cuello. 3. Shock traumático por traumatismo craneoencefálico con fractura de cráneo y sección medular"
+  },
+  {
+    "id": 135,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Asfixia por estrangulamiento"
+  },
+  {
+    "id": 136,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Asfixia por obstrucción de vías aéreas respiratorias medias por maniobra de estrangulación"
+  },
+  {
+    "id": 137,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock Neurogénico por estallamiento de masa encefálica con fractura múltiple de huesos de cráneo por disparo de proyectil de arma de fuego en cabeza"
+  },
+  {
+    "id": 138,
+    "year": 2017,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Cheque Neurogénico Secundario a Traumatismo craneonecefálico severo"
+  },
+  {
+    "id": 139,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Asfixia por Estrangulamiento"
+  },
+  {
+    "id": 140,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Asfixia por Estrangulamiento"
+  },
+  {
+    "id": 141,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico por laceración de vísera cardiaca"
+  },
+  {
+    "id": 142,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral por traumatismo craneoencefálico"
+  },
+  {
+    "id": 143,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico secundario a laceración de vísera hepática y esplénica por trauma abdominal cerrado"
+  },
+  {
+    "id": 144,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico secundaria a laceración de vivera cardiaca por objeto punzocortante"
+  },
+  {
+    "id": 145,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia secundaria por estrangulamiento."
+  },
+  {
+    "id": 146,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral, destrucción de centros vitales y heridas producidas por proyectil de arma de fuego penetrante de cráneo"
+  },
+  {
+    "id": 147,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral aguda secundaria fractura de cráneo consecutiva a traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 148,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia Cerebral Aguda. Lesion de centros vitales. Traumatismo craneoencefálico"
+  },
+  {
+    "id": 149,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico irreversible secundario a hemorragia interna aguda por lesión de órganos tractoabdominales de etiología no terminada con anoxemia de etiología no determinada"
+  },
+  {
+    "id": 150,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia consecutiva a bronco aspiración de líquido hemático consecutiva a traumatismo craneoencefálico y rostral"
+  },
+  {
+    "id": 151,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral e interna aguda, lesión de centros y órganos vitales, herida producida por proyectil disparado por arma de fuego penetrante de tórax y cráneo"
+  },
+  {
+    "id": 152,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico por hemorragia interna aguda, por lesión de órganos vitales provocado por heridas producidas por instrumento punzocortante penetrantes a cavidad torácica y abdominal"
+  },
+  {
+    "id": 153,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia. Bronco aspiración de contenido hemático de origen postraumático, sangrado de vías aéreas superiores, traumatismo craneo-rostral que provocó las lesiones descritas"
+  },
+  {
+    "id": 154,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral aguda, destrucción de centro vitales, heridas producidas por proyectil disparado por arma de fuego penetrante de cráneo"
+  },
+  {
+    "id": 155,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Hospital",
+    "cause_of_death": "Hemorragia cerebral secundaria a traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 156,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico secundarlo a hemoneumotorax derecho por herida doble penetrante al abdomen y tórax"
+  },
+  {
+    "id": 157,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Taponamiento cardiaco secundario a perforación cardiaca consecutiva a herida producida por proyectil de arma de fuego"
+  },
+  {
+    "id": 158,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Asfixia por compresión externa, estrangulamiento"
+  },
+  {
+    "id": 159,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico por perforación cardiaca con objeto punzocortante"
+  },
+  {
+    "id": 160,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico por hemorragia intratoricia izquierda por laceración de pulmón izquiero, secundaria a heridas penetrante de tórax por arma blanca"
+  },
+  {
+    "id": 161,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Granja",
+    "cause_of_death": "Indeterminada, los restos fueron carbonizados."
+  },
+  {
+    "id": 162,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque Neurogénico, por estallamiento de masa encefálica con fractura multifragmentaria de huesos de cráneo por disparos de arma de fuego en región temporal izquierda de cabeza"
+  },
+  {
+    "id": 163,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock Neurogénico por edema hemorregico cerebral, con fractura de hueso occipital lado izquierdo y piso medio de cráneo lado izquierdo, producido por disparo de proyectil de arma de fuego en cabeza"
+  },
+  {
+    "id": 164,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico por herida con objeto punzocortante en tórax"
+  },
+  {
+    "id": 165,
+    "year": 2018,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Hotel",
+    "cause_of_death": "Choque hipovolémico secundario producido por herida punzocortante en el cuello anterior izquierdo"
+  },
+  {
+    "id": 166,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Asfixia por estrangulamiento y doble fractura expuesta del piso medio con salida a oído derecho"
+  },
+  {
+    "id": 167,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Hotel",
+    "cause_of_death": "Asfixia por estrangulamiento"
+  },
+  {
+    "id": 168,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Asfixia por Estrangulamiento"
+  },
+  {
+    "id": 169,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Contusión profunda de craneo por proyectil de arma de fuego"
+  },
+  {
+    "id": 170,
+    "year": 2019,
+    "victims": 2,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "1. Shock hipovolémico secundario a laceración de visera cardiaca por proyectil de arma de fuego. 2. Traumatismo craneoencefálico secundario a proyectil de arma de fuego"
+  },
+  {
+    "id": 171,
+    "year": 2019,
+    "victims": 3,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "1.- Shock hipovolemico secundaria hemorragia por laceración de arteria pulmonar2.- Asfixia por estrangulamiento herida punzocortante 16 centimetros en la parte frontal. 3. Shock hipovolémico por por hemoneumotorax secundaria por herida punzo cortante"
+  },
+  {
+    "id": 172,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Negocio",
+    "cause_of_death": "Hemorragia cerebral secundaria a contusión y fractura craneal"
+  },
+  {
+    "id": 173,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolemico secundario a hemoneumotorax izquierdo por herida de arma punzocortante penetrante a tórax."
+  },
+  {
+    "id": 174,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Cercenado",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Lesiones a nivel de tejido y óseo, realizadas con objeto punzocortante, pero no contar con el resto de los segmentos corporantes, no se puede establecer la causa directa y por lo tanto el mecanismo de muerte"
+  },
+  {
+    "id": 175,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Shock hipovolémico"
+  },
+  {
+    "id": 176,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral aguda, destrucción de centros vitales, heridas producidas por proyectiles disparados por arma de fuego penetrante de cráneo"
+  },
+  {
+    "id": 177,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Hemorragia cerebral aguda, destrucción de centros vitales y traumatismo craneoencefálico"
+  },
+  {
+    "id": 178,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia Secundaria a Bronco aspiración de origen traumático, obstrucción de orificios respiratorios"
+  },
+  {
+    "id": 179,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Anoxemia, Bronco aspiración de contenido hemático, traumatismo craneoencefálico y facial"
+  },
+  {
+    "id": 180,
+    "year": 2019,
+    "victims": 2,
+    "cause": "Arma Blanca y estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "1.- Atascamiento cardiaco por heno pericardio, perforación cardiaca, herida producida por instrumento punzocortante doble penetrante de tórax y abdomen. 2. Anoxemia por estrangulamiento"
+  },
+  {
+    "id": 181,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Asfixia",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por Obstrucción de Orificios respiratorios"
+  },
+  {
+    "id": 182,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia intema aguda, lesión de órganos vitales, herida producida por instrumento punzocortante penetrante de tórax"
+  },
+  {
+    "id": 183,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral aguda, lesión de centros vitales, heridas producidas por proyectil disparao por amra de fuego penetrante de cráneo"
+  },
+  {
+    "id": 184,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral e interna agudas, lesión de centros y órganos vitales, traumatismo craneoencefálico y contusión profunda de abdomen"
+  },
+  {
+    "id": 185,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia por Estrangulamiento"
+  },
+  {
+    "id": 186,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Anoxemia por bronco aspiración de contenido hemático de origen post traumático; traumatismo rostral"
+  },
+  {
+    "id": 187,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral aguda, lesión de centros vitales, heridas producidas por proyectil disparado por arma de fuego penetrante de cráneo"
+  },
+  {
+    "id": 188,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia secundaria a bronco aspiración de contenido hemático de origen potruamático. Traumatismo cráneo rostral"
+  },
+  {
+    "id": 189,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral aguda, destrucción de centros vitales, heridas producidas por proyectil disparado por arma de fuego penetrantes de cráneo"
+  },
+  {
+    "id": 190,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral aguda, destrucción de centros y órganos vitales, heridas producidas por proyectil de arma de fuego en abdomen, tórax y cráneo"
+  },
+  {
+    "id": 191,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Hemorragia cerebral aguda, lesión de centros vitales, herida producida por proyectil disparado por arma de fuego penetrante de cráneo"
+  },
+  {
+    "id": 192,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia secundaria a estrangulamiento y bronco aspiración de contenido gástrico"
+  },
+  {
+    "id": 193,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral aguda con afectacidn de centros vitales secundarios, traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 194,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Asfixia",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Asfixia por sofocación"
+  },
+  {
+    "id": 195,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico secundaria a laceración de vísera cardiaca por arma punzocortante"
+  },
+  {
+    "id": 196,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Asfixia",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia por Obstrucción"
+  },
+  {
+    "id": 197,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico irreversible secundario a herida punzocortante penetrante a la cavidad del tórax con lesión de pulmón izquierdo; hemotórax de 2500 ml"
+  },
+  {
+    "id": 198,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico secundario a herida por proyectil de arma de fuego con laceración de la arteria sucralia derecha, a 145 cm del tórax sustentación en la región escapular derecha"
+  },
+  {
+    "id": 199,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Notaría Pública y Escuela primaria",
+    "cause_of_death": "Shock hipovolémico debido a herida por proyectil de arma de fuego"
+  },
+  {
+    "id": 200,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico por herida punzocortante en cuello"
+  },
+  {
+    "id": 201,
+    "year": 2019,
+    "victims": 2,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "1. Choque neurogénico por estallamiento de masa encefálica, con fractura de hueso de faciales y de cráneo por múltiples disparos de proyectil de arma de fuego. 2. Shock neurológico y hemorragia cerebral intraparanquemitosa por traumatismo de cráneo severo"
+  },
+  {
+    "id": 202,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shoch hipovolémico con hemoperitoneo masivo por lesión de arteria iliaca producida por herida penetrante en abdomen con arma punzocortante"
+  },
+  {
+    "id": 203,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Asfixia",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Asfixia por obstruccidn de respiración de vías aéreas medias por fractura de cartílago cricoides or maniobra de estrangulamiento en cuello"
+  },
+  {
+    "id": 204,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico por lesión directa a corazón por objeto punzocortante en región laterial izquierda de tórax"
+  },
+  {
+    "id": 205,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Presidencia municipal",
+    "cause_of_death": "Shock Neurogénico por estallamiento de masa encefálica por fractura de cráneo por disparo de proyectil de arma de fuego"
+  },
+  {
+    "id": 206,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque Hipovolémico"
+  },
+  {
+    "id": 207,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo craneoencefálico"
+  },
+  {
+    "id": 208,
+    "year": 2019,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico producido por traumatismo toraxabdominal por lesión a corazón, pulmón izquierdo y al vaso, producidas por un instrumento punzocortante ocasionando hemotórax hemoperitoneo"
+  },
+  {
+    "id": 209,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock Neurogénico secundario a golpe contuso"
+  },
+  {
+    "id": 210,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico secundario a deguello"
+  },
+  {
+    "id": 211,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico por laceration de arteria renal"
+  },
+  {
+    "id": 212,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Asfixia por Estrangulamiento"
+  },
+  {
+    "id": 213,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Asfixia por Estrangulamiento"
+  },
+  {
+    "id": 214,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxia cerebral secundaria a asfixia por sofocación"
+  },
+  {
+    "id": 215,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Institución educativa",
+    "cause_of_death": "Hemorragia cerebral e interna aguda, lesión de centro y órganos vitales, heridas producidas por proyectiles disparados por arma de fuego penetrantes de cráneo y tórax"
+  },
+  {
+    "id": 216,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico por lesiones en paquete vascular de vena yugular de cuello lado derecho secundario a disparo de proyectil de arma de fuego"
+  },
+  {
+    "id": 217,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Falla cardiaca aguda, irritación del plexo solar, hematoma retroperitoneal y contusión profunda de abdomen"
+  },
+  {
+    "id": 218,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Anoxemia secundaria a estrangulamiento."
+  },
+  {
+    "id": 219,
+    "year": 2020,
+    "victims": 3,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia por Estrangulamiento"
+  },
+  {
+    "id": 220,
+    "year": 2020,
+    "victims": 2,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Anoxemia secundaria a estrangulamiento, obstruccicin de orificios respiratorios. 2. Anocemia secundaria a estrangulamiento"
+  },
+  {
+    "id": 221,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral aguda, destrucción de centros vitales, heridas producidas por proyectil de arma de fuego penetrante en cráneo"
+  },
+  {
+    "id": 222,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral, lesión de centros vitales por herida producida por proyectil disparado por arma de fuego penetrante en cráneo, en ambos occisos"
+  },
+  {
+    "id": 223,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico, hemorragia interna y externa aguda, lesión de órganos vitales, heridas producidas por proyectiles disparados por arma de fuego penetrantes de tórax y abdomen"
+  },
+  {
+    "id": 224,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Despoblado",
+    "cause_of_death": "Lesión de centros secundaria a herida producida por proyectil disparado por arma de fuego"
+  },
+  {
+    "id": 225,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico secundario a laceración de vísera cardiaca (corazón) por objeto punzocortante"
+  },
+  {
+    "id": 226,
+    "year": 2020,
+    "victims": 4,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "1. Hemorragia cerebral aguda, lesión de centros vitales, traumatismo de cerebro. 2. Anoxemia, bronco aspiración de contenido hernatico, contusion craneoencefálico. 3. Hemorragia cerebral, lesión de centros vitales, traumatismo craneoencefálico. 4. Anoxemia, bronco aspiración de contenido hemático"
+  },
+  {
+    "id": 227,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Asfixia",
+    "sexual_violence": "Si",
+    "place": "Domicilio",
+    "cause_of_death": "Asfixia por sofocación, penetración vaginal violenta reciente menor a 10 días"
+  },
+  {
+    "id": 228,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Negocio",
+    "cause_of_death": "Shock Neurogénico debido a traumatismo craneoencefálico de bóveda de cráneo y exposición de masa encefálica"
+  },
+  {
+    "id": 229,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo craneoencefálico producido por un objeto contundente"
+  },
+  {
+    "id": 230,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolémico derivado de las heridas en hemitórax posterior"
+  },
+  {
+    "id": 231,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Laceración y hemorragia cerebral con fracturas múltiples de cráneo por arma corto contundente."
+  },
+  {
+    "id": 232,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Traumatismo severo de cráneo con fractura temporo-pariental derecha"
+  },
+  {
+    "id": 233,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Asfixia por estrangulamiento"
+  },
+  {
+    "id": 234,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock Neurogénico con fractura multifragmentaria de bóveda y base craneal, edema por traumatismo craneoencefálico severo"
+  },
+  {
+    "id": 235,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock Neurogénico, con edema cerebral hemorrágico y destrucción cerebral con fractura multifragmentaria de bóveda craneal, por disparo de arma de fuego en la cabeza"
+  },
+  {
+    "id": 236,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico por lesión directa rama izquierda de arteria carótida con objeto punzocortante en lado inferior izquierdo del cuello"
+  },
+  {
+    "id": 237,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Shock hipovolémico por hemorragia aguda severa producida por lesión directa al corazón con objeto punzocortante"
+  },
+  {
+    "id": 238,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Asfixia",
+    "sexual_violence": "No",
+    "place": "Negocio",
+    "cause_of_death": "Asfixia por obstrucción mecánica de vía aérea superior"
+  },
+  {
+    "id": 239,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolémico y herida por proyectil por arma de fuego"
+  },
+  {
+    "id": 240,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Choque hipovolémico, herida punzocortante producida por arma blanca"
+  },
+  {
+    "id": 241,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Estrangulamiento",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Asfixia por estrangulación"
+  },
+  {
+    "id": 242,
+    "year": 2020,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Camino de terracería",
+    "cause_of_death": "Choque Neurogénico secundario a traumatismo craneoencefálico producido por herida por arma de fuego"
+  },
+  {
+    "id": 243,
+    "year": 2021,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Traumatismo craneoencefálico severo con fractura en la base de cráneo"
+  },
+  {
+    "id": 244,
+    "year": 2021,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Taponamiento cardiaco por herida punzo cortante"
+  },
+  {
+    "id": 245,
+    "year": 2021,
+    "victims": 1,
+    "cause": "Golpes",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral por golpe contuso"
+  },
+  {
+    "id": 246,
+    "year": 2021,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Mercado",
+    "cause_of_death": "Choque hipovolémico, laceración vascular y c) heridas producidas por proyectil disparado por arma de fuego penetrante de cuello"
+  },
+  {
+    "id": 247,
+    "year": 2021,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Domicilio",
+    "cause_of_death": "Hemorragia cerebral aguda, lesión de centros vitales, heridas producidas por proyectil disparado por arma de fuego penetrante de cráneo"
+  },
+  {
+    "id": 248,
+    "year": 2021,
+    "victims": 1,
+    "cause": "Arma de Fuego",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Shock hipovolémico irreversible secundario a heridas producidas por proyectil de arma de fuego"
+  },
+  {
+    "id": 249,
+    "year": 2021,
+    "victims": 1,
+    "cause": "Arma Blanca",
+    "sexual_violence": "No",
+    "place": "Vía Pública",
+    "cause_of_death": "Choque hipovolémico por hemoperitoneo por lesión directa a cayado aórtico segmento abdominal por lesión de objeto punzo cortante en abdomen lado izquierdo."
+  }
+]
