@@ -15,7 +15,7 @@
 	{:else if table === '2'}
 		<TimeGraph />
 	{:else if table === '3'}
-		<h1>Homicidios a mujeres por lugar y causa de muerte</h1>
+		<h1>Homicidios de mujeres por lugar y causa de muerte</h1>
 		<SankeyChart />
 	{/if}
 </main>
