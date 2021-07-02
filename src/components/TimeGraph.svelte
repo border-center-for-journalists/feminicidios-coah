@@ -66,11 +66,24 @@
 <h1>Homicidios dolosos de mujeres vs carpetas iniciadas por feminicidio</h1>
 <div class='container'>
 	<Line data={dataLine} {options} />
+	<div class='notes'>
+		<p class='source'>Fuente: Elaboración propia con datos entregados por la Fiscalía de Coahuila.</p>
+	</div>
 </div>
 
 <style>
 	.container{
 		max-width: 800px;
 		margin: 0 auto;
+	}
+
+	.notes p{
+		color: white;
+		margin: 4px 0;
+	}
+	.notes .source{
+		color: #aaa;
+		text-align: right;
+		font-style: italic;
 	}
 </style>

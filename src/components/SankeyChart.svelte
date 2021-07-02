@@ -98,7 +98,12 @@
 <PlaceSelector places={places} bind:selectedPlace={selectedPlace}/>
 <div class='container'>
 	<canvas id="chart"></canvas>
+
+	
 </div>
+<div class='notes'>
+		<p class='source'>Fuente: Elaboración propia con datos entregados por la Fiscalía de Coahuila.</p>
+	</div>
 <style>
 	canvas{
 		max-width: 800px;
@@ -107,5 +112,18 @@
 		display: flex;
   		justify-content: center;
   		padding-bottom: 20px;
+	}
+	.notes{
+		max-width: 800px;
+		margin: 10px auto;
+	}
+	.notes p{
+		color: white;
+		margin: 4px 0;
+	}
+	.notes .source{
+		color: #aaa;
+		text-align: right;
+		font-style: italic;
 	}
 </style>
