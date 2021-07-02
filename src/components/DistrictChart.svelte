@@ -17,13 +17,24 @@
 	let selectedType;
 </script>
 <div class='box'>
+	<h1>Carpetas con resolución por feminicídio</h1>
+	<p class='explainer'>La siguiente tabla muestra las <b>44 resoluciónes </b> por feminicídio dictadas por el Poder Judicial del Estado de Coahuila. Se puede navegar la tabla haciendo clic en cada distrito para ver los datos de esa localidad. </p>
 	<DistrictSelector bind:selectedDistrict={selectedDistrict} districts={districts}/>
-	<TypeSelector bind:selectedType={selectedType} />
-	<District district={selectedDistrict} />
+	<section>
+		<TypeSelector bind:selectedType={selectedType} />
+		<District district={selectedDistrict} />
+	</section>
 </div>
 <style>
+
 	.box{
 		margin: 0 auto;
+		max-width: 800px;
+		background-color: black;
+		border-radius: 15px;
+	}
+	section{
 		max-width: 500px;
+		margin: 0 auto;
 	}
 </style>

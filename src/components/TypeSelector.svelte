@@ -1,5 +1,4 @@
 <script>
-	export let selectedType;
 	let types = 
 	[
 		{
@@ -17,24 +16,32 @@
 
 <div class='container'>
 	{#each types as type}
-	<button class={type.class}><span class="material-icons">{type.icon}</span>{type.name}</button>
+		<div class={type.class}><span class="material-icons">{type.icon}</span>{type.name}</div>
 	{/each}
 </div>
 <style>
 	.container{
 		display: flex;
+		margin-bottom: 20px;
 	}
-	button{
+	.container div{
 		flex: 1 1 0px;
+		background-color: black;
+		color: white;
+		border-radius: 20px;
+		border: 2px solid white;
+		line-height: 27px;
+		padding-bottom: 2px;
+		text-align: center;
 	}
-	button.oral{
-		background-color: #006E81;
+	.container div.oral{
+		background-color: white;
+		color: black;
+		border: 2px solid black;
+		margin-left: 10px;
 	}
 
-	button.abbr{
-		background-color: #2F4858;
-	}
-	button .material-icons{
+	.container div .material-icons{
 		margin-right: 6px;
 		position: relative;
 		top: 5px;

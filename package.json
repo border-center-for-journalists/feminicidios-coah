@@ -21,6 +21,7 @@
   "dependencies": {
     "chart.js": "^3.4.0",
     "chartjs-chart-sankey": "^0.7.1",
+    "query-string": "^7.0.1",
     "sirv-cli": "^1.0.0",
     "svelte-chartjs": "^1.0.1"
   }

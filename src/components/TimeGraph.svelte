@@ -3,7 +3,7 @@
 	import Line from "svelte-chartjs/src/Line.svelte";
 
 	let dataLine = {
-	    labels: [2015,2016,2017,2018,2019,2020,2021],
+	    labels: [2015,2016,2017,2018,2019,2020],
 	    datasets: [
 	      {
 	        label: "Homicidios dolosos a mujeres",
@@ -13,7 +13,7 @@
 	        borderColor: "rgb(205, 130, 158)",
 	        pointBorderWidth: 5,
 	        pointHitRadius: 10,
-	        data: [67,44,36,27,48,40,7]
+	        data: [67,44,36,27,48,40]
 	      },
 	      {
 	        label: "Carpetas iniciadas por feminicidio",
@@ -27,6 +27,29 @@
 	      }
 	    ]
 	  };
+	let options = {
+		responsive: true,
+		plugins: {
+			legend: {
+				labels: {
+					// This more specific font property overrides the global property
+					font: {
+						size: 30
+					}
+				}
+			}
+		}
+	};
 </script>
 
-<Line data={dataLine} options={{ responsive: true }}/>
+<h1>Homicidios dolosos a mujeres vs carpetas iniciadas por feminicídio</h1>
+<div class='container'>
+	<Line data={dataLine} options={options} />
+</div>
+
+<style>
+	.container{
+		max-width: 800px;
+		margin: 0 auto;
+	}
+</style>

@@ -11,15 +11,21 @@
 	const typeClass = cause.tipo === 'Juicio oral' ? 'oral' : 'abbr';
 </script>
 <div class='container {typeClass}'>
-	<div class='cause cell'>{cause.causa}</div>
 	<div class='type cell'><span class="material-icons">{typeIcon}</span></div>
+	<div class='cause cell'>
+		{cause.causa}
+		{#if cause.notas} <sup>{cause.noteNum}</sup>{/if}
+	</div>
 	<div class='range'>
 		<div class='indicator' style='width: {penaltyPct}%'></div>
 		<p>{cause.penalidad} años</p>
 	</div>
 	<div class='range'>
 		<div class='indicator' style='width: {ammountPct}%'></div>
-		<p>{ammount}</p>
+		<p>
+			{ammount}
+			{#if ammount === 'Ilíquida'}*{/if}
+		</p>
 	</div>
 </div>
 
@@ -28,15 +34,17 @@
 	p{
 		margin: 0;
 	}
+	sup{font-size: 11px}
 	.container{	
 		display: flex;
 		margin-bottom: 1px;
 	}
 	.container.oral div{
-		background-color: #006E81;
+		background-color: white;
+		color: black;
 	}
 	.container.abbr div{
-		background-color: #2F4858;
+		background-color: black;
 	}
 	.cell{
 		padding: 0 10px 0;
@@ -57,14 +65,14 @@
 
 	.type{
 		font-size: 13px;
-	}
-	
+	}	
 
 	.range{
 		height: 33px;
 		position: relative;
 		margin-right: 1px;
 		flex: 1 1 0px;
+		background-color: black!important;
 
 	}
 	.range p{
@@ -81,7 +89,7 @@
 		left: 0;
 		top:  0;
 		height: 100%;
-		background-color: #00978E;
+		background-color: #A48AE4;
 	}
 	
 </style>
