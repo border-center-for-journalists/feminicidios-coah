@@ -63,7 +63,7 @@
 	}
 </script>
 
-<h1>Homicidios dolosos de mujeres vs carpetas iniciadas por feminicidio</h1>
+<h1>Mujeres víctimas de homicidio doloso vs carpetas iniciadas por feminicidio</h1>
 <div class='container'>
 	<Line data={dataLine} {options} />
 	<div class='notes'>

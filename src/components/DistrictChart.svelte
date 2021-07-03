@@ -17,8 +17,8 @@
 	let selectedType;
 </script>
 <div class='box'>
-	<h1>Carpetas con resolución por feminicidio</h1>
-	<p class='explainer'>La siguiente tabla muestra las <b>44 resoluciones </b> por feminicidio dictadas por el Poder Judicial del Estado de Coahuila. Se puede navegar la tabla haciendo clic en cada distrito para ver los datos de esa localidad. </p>
+	<h1>Sentencias por feminicidio en Coahuila</h1>
+	<p class='explainer'>La siguiente tabla muestra las 44 resoluciones por feminicidio dictadas desde 2014 por el Poder Judicial del Estado de Coahuila. Se puede navegar la tabla haciendo clic en cada distrito judicial para ver los datos.</p>
 	<DistrictSelector bind:selectedDistrict={selectedDistrict} districts={districts}/>
 	<section>
 		<TypeSelector bind:selectedType={selectedType} />
